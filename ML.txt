@@ -77,6 +77,8 @@ K-means
 Random forest algorithm
 Dimensionality reduction algorithms
 Gradient boosting algorithm and AdaBoosting algorithm
+Apriori
+PVC
 
 
-author : Sakshi and Prarthana
+author : Sakshi and Prarthana and Srilaxmi
