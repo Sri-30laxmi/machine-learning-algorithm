@@ -11,3 +11,71 @@ X – Independent variable
 b – Intercept
 The coefficients a & b are derived by minimizing the sum of the squared difference of distance between data points and the regression line.
 
+Top 10 Machine Learning Algorithms For Beginners: Supervised, and More
+By Simon Tavasoli
+Last updated on Jul 24, 2023548880
+Top 10 Machine Learning Algorithms You Need to Know in 2023
+Table of Contents
+Types of Machine Learning AlgorithmsWhat‌ ‌are‌ ‌the‌ ‌10 ‌Popular‌ ‌Machine‌ ‌Learning Algorithms?‌List of Popular Machine Learning AlgorithmsHow Learning These Vital Algorithms Can Enhance Your Skills in Machine LearningChoose the Right ProgramView More
+In a world where nearly all manual tasks are being automated, the definition of manual is changing. There are now many different types of Machine Learning algorithms, some of which can help computers play chess, perform surgeries, and get smarter and more personal.
+
+We are living in an era of constant technological progress, and looking at how computing has advanced over the years, we can predict what’s to come in the days ahead. 
+
+One of the main features of this revolution that stands out is how computing tools and techniques have been democratized. Data scientists have built sophisticated data-crunching machines in the last 5 years by seamlessly executing advanced techniques. The results have been astounding. 
+
+The many different types of machine learning algorithms have been designed in such dynamic times to help solve real-world complex problems. The ml algorithms are automated and self-modifying to continue improving over time. Before we delve into the top 10 machine learning algorithms you should know, let's take a look at the different types of machine learning algorithms and how they are classified. 
+
+Checkout the Simplilearn's video on the "Machine Learning Algorithm". Looking forward to a successful career in AI and Machine learning.Enrol in our  Caltech Post Graduate Program in AI & ML .
+
+
+
+Learn for free! Subscribe to our YouTube Channel & Be a Part of 400k+ Happy Learners Community. ”Get
+Types of Machine Learning Algorithms
+Machine learning algorithms are classified into 4 types:
+
+Supervised
+Unsupervised Learning
+Semi-supervised Learning
+Reinforcement Learning
+Read More: Supervised and Unsupervised Learning in Machine Learning
+
+Supervised Learning
+Supervised learning is a machine learning approach where algorithms learn from labeled data. The algorithm receives input data and corresponding correct output labels in this process. The objective is to train the algorithm to predict accurate labels for new, unseen data. Examples of supervised learning algorithms include:
+
+Decision Trees
+Support Vector Machines
+Random Forests
+Naive Bayes
+These algorithms can be used for classification, regression, and time series forecasting tasks. Supervised learning is widely used in various domains, including healthcare, finance, marketing, and image recognition, to make predictions and gain valuable insights from data.
+
+Unsupervised Learning
+In this machine learning approach, algorithms analyze unlabeled data without predefined output labels. The objective is to discover patterns, relationships, or structures within the data. Unlike supervised learning, unsupervised learning algorithms work independently to uncover hidden insights and group similar data points together. Common unsupervised learning techniques include clustering algorithms like:
+
+K-means
+Hierarchical clustering
+Dimensionality Reduction Methods like PCA and t-SNE
+Semi-supervised Learning
+Semi-supervised learning is a hybrid machine learning approach that combines labeled and unlabeled data for training. It leverages the limited labeled data and a larger set of unlabeled data to improve the learning process. The idea is that the unlabeled data provide additional information and context to enhance the model's understanding and performance. By utilizing the unlabeled data effectively, semi-supervised learning can overcome the limitations of relying solely on labeled data. This approach is particularly useful when acquiring labeled data is expensive or time-consuming. Semi-supervised learning techniques can be applied to various tasks, such as classification, regression, and anomaly detection, allowing models to make more accurate predictions and generalize better in real-world scenarios.
+
+Reinforcement Learning
+Reinforcement learning is a machine learning algorithm inspired by how humans learn from trial and error. Here, an agent interacts with an environment and learns to make optimal decisions to maximize cumulative rewards. The agent receives feedback through rewards or penalties based on its actions. The agent learns to take actions that lead to the most favorable outcomes over time. It is commonly used in robotics, game playing, and autonomous systems. It enables machines to learn from their experiences, adapt to changing environments, and achieve long-term goals through a sequence of actions. This dynamic approach to learning makes reinforcement learning a powerful technique for tackling complex decision-making problems.
+
+However, these four types of ml algorithms are further classified into more types. 
+
+Become an Expert in All Things AI and ML!
+Caltech Post Graduate Program in AI & MLEXPLORE PROGRAMBecome an Expert in All Things AI and ML!
+What‌ ‌are‌ ‌the‌ ‌10 ‌Popular‌ ‌Machine‌ ‌Learning Algorithms?‌
+Below is the list of Top 10 commonly used Machine Learning (ML) Algorithms:
+
+Linear regression
+Logistic regression
+Decision tree
+SVM algorithm
+Naive Bayes algorithm
+KNN algorithm
+K-means
+Random forest algorithm
+Dimensionality reduction algorithms
+Gradient boosting algorithm and AdaBoosting algorithm
+
+
