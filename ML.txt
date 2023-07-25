@@ -1,0 +1,13 @@
+1. Linear Regression
+To understand the working functionality of Linear Regression, imagine how you would arrange random logs of wood in increasing order of their weight. There is a catch; however – you cannot weigh each log. You have to guess its weight just by looking at the height and girth of the log (visual analysis) and arranging them using a combination of these visible parameters. This is what linear regression in machine learning is like.
+
+In this process, a relationship is established between independent and dependent variables by fitting them to a line. This line is known as the regression line and is represented by a linear equation Y= a *X + b.
+
+In this equation:
+
+Y – Dependent Variable
+a – Slope
+X – Independent variable
+b – Intercept
+The coefficients a & b are derived by minimizing the sum of the squared difference of distance between data points and the regression line.
+
